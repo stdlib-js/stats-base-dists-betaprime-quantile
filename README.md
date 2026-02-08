@@ -65,13 +65,13 @@ for `0 <= p <= 1`, where `G^-1` denotes the quantile function of a [beta][beta-d
 ## Usage
 
 ```javascript
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-quantile@esm/index.mjs';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-quantile@v0.2.3-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-quantile@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-quantile@v0.2.3-esm/index.mjs';
 ```
 
 #### quantile( p, alpha, beta )
@@ -162,7 +162,7 @@ y = myQuantile( 0.4 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-quantile@esm/index.mjs';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-quantile@v0.2.3-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
