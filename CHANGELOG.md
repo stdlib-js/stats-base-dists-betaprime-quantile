@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-22)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c20ef7a`](https://github.com/stdlib-js/stdlib/commit/c20ef7aed3f6d83461d412f3134f10349e056e4a) - **test:** migrate `stats/base/dists/betaprime/quantile` to ULP-based assertions [(#15408)](https://github.com/stdlib-js/stdlib/pull/15408) _(by Divyanshu)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Divyanshu
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
