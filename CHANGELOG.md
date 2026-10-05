@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-10-05)
+
+<section class="features">
+
+### Features
+
+-   [`93262c2`](https://github.com/stdlib-js/stdlib/commit/93262c260032936836c2eb5d20470d40e01febdc) - add C implementations for beta prime and F distribution quantile [(#15388)](https://github.com/stdlib-js/stdlib/pull/15388) [(#15410)](https://github.com/stdlib-js/stdlib/pull/15410)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`93262c2`](https://github.com/stdlib-js/stdlib/commit/93262c260032936836c2eb5d20470d40e01febdc) - **feat:** add C implementations for beta prime and F distribution quantile [(#15388)](https://github.com/stdlib-js/stdlib/pull/15388) [(#15410)](https://github.com/stdlib-js/stdlib/pull/15410) _(by Philipp Burckhardt, Karan Anand)_
 -   [`c20ef7a`](https://github.com/stdlib-js/stdlib/commit/c20ef7aed3f6d83461d412f3134f10349e056e4a) - **test:** migrate `stats/base/dists/betaprime/quantile` to ULP-based assertions [(#15408)](https://github.com/stdlib-js/stdlib/pull/15408) _(by Divyanshu)_
 
 </details>
@@ -24,9 +35,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Divyanshu
+-   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
