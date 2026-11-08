@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-05)
+## Unreleased (2026-11-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8f62240`](https://github.com/stdlib-js/stdlib/commit/8f622403b8f6ff3781a17dc7ceb077e341e91aa3) - **docs:** clean-up [(#16084)](https://github.com/stdlib-js/stdlib/pull/16084) _(by Philipp Burckhardt)_
 -   [`93262c2`](https://github.com/stdlib-js/stdlib/commit/93262c260032936836c2eb5d20470d40e01febdc) - **feat:** add C implementations for beta prime and F distribution quantile [(#15388)](https://github.com/stdlib-js/stdlib/pull/15388) [(#15410)](https://github.com/stdlib-js/stdlib/pull/15410) _(by Philipp Burckhardt, Karan Anand)_
 -   [`c20ef7a`](https://github.com/stdlib-js/stdlib/commit/c20ef7aed3f6d83461d412f3134f10349e056e4a) - **test:** migrate `stats/base/dists/betaprime/quantile` to ULP-based assertions [(#15408)](https://github.com/stdlib-js/stdlib/pull/15408) _(by Divyanshu)_
 
